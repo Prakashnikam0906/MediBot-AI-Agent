@@ -13,3 +13,9 @@ Multilingual Support: Communicate in multiple languages, including Indian region
 
 Voice and Text Interaction: Accept user inputs via text or voice.
 
+Streamlit UI: Interactive user interface for easy deployment and testing.
+
+Hugging Face Integration: Leverage pre-trained models for advanced NLP capabilities.
+
+LangChain Workflow: Build structured conversational flows and integrate external knowledge bases.
+
